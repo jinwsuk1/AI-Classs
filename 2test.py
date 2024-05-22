@@ -1,4 +1,4 @@
-class MouseRabbit(Rabbit):
+class HouseRabbit(Rabbit):
   shape = "house"
 
   def __init__(self, x, y):
