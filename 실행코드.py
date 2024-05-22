@@ -1,0 +1,6 @@
+a = houseRabbit(10, 20)
+b = MountainRabbit(30, 40)
+print(a.shape)
+a.eat_food()
+print(b.shape)
+b.eat_grass()
